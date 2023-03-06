@@ -1,0 +1,35 @@
+{
+    "destinations": [
+        {
+            "id": "1",
+            "city": "Maui",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/9b/2f/d3/maui.jpg",
+            "style": "salt-water soul",
+            "stays": [
+                {
+                    "price": "$286.53",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": "", 
+                },
+                {
+                    "id": "1",
+                    "image": " "
+                },
+                {
+                    "id": "2",
+                    "image": " "
+                },
+                {
+                    "id": "3",
+                    "image": " "
+                },
+                {
+                    "id": "4",
+                    "image": " "
+                }
+            ]
+        }
+    ]
+}

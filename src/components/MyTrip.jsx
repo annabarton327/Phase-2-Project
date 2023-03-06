@@ -2,17 +2,15 @@ import React from "react"
 import { Link } from "react-router-dom"
 
 
-function MyTrip() {
+function MyTrips() {
 
     return (
         <body>
-            <h1>My Trip</h1>
-            <p>Your trip is empty. Get started and begin your trip now!</p>
-            <button>
-                <Link to="/">Begin Trip</Link>
-            </button>
+            <h1>My Trips</h1>
+            <p>You currenely have no trips planned. Get started and begin a trip now!</p>
+            <Link className="link-button" to="/">Begin Trip</Link>
         </body>
     )
 }
 
-export default MyTrip
+export default MyTrips
