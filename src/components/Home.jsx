@@ -1,5 +1,4 @@
 import React from "react"
-import ListCategories from "./FetchData"
 import { Link } from "react-router-dom"
 
 
@@ -12,8 +11,8 @@ function Home() {
             <h3>Start your vacation before your vacation.</h3>
             <form>
                 <div>
-                    <input type="text" />
-                    <input type="text" />
+                    <input type="text" placeholder="First and Last Name" />
+                    <input type="text" placeholder="Email"/>
                     <input type="date" />
                     <input type="date" />
                 </div>

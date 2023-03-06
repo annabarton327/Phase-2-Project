@@ -1,22 +1,19 @@
 import React, { useEffect, useState } from "react"
-import SkiBum from "./Links/SkiBum"
 
-function FetchData() {
-    const [destinations, setDestinations] = useState([])
+function FetchData({ setDestinations }) {
 
     useEffect(() => {
         fetch("/db.json")
             .then(r => r.json())
             .then(data => {
-                setDestinations(data)
+                setDestinations(data.destinations)
+                console.log(data)
             })
     }, [])
 
     return (
-            <SkiBum destinations={destinations}/>
+        <div> </div>
     )
 }
 
-
-
-export default ListCategories
+export default FetchData

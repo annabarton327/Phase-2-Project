@@ -1,7 +1,7 @@
 import React from "react"
 
-
 function SkiBum({ destinations }) {
+    
 
     const destinationsList = destinations.map((destination) => {
         return <div key={destination.id} >
@@ -10,11 +10,11 @@ function SkiBum({ destinations }) {
         </div>
     })
 
-
     return (
-        <>
-            {destinationsList}
-        </>
+        <div>
+            <h1>We like your style! Now choose your destination:</h1>
+            <h2>{destinationsList}</h2>
+        </div>
     )
 }
 
