@@ -2,34 +2,1124 @@
     "destinations": [
         {
             "id": "1",
-            "city": "Maui",
-            "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/9b/2f/d3/maui.jpg",
-            "style": "salt-water soul",
+            "destination": "Verbier, Switzerland",
+            "image": "https://blog.savills.com/_images/chalet-digby(3).jpg",
+            "category": "ski bum all the way",
             "stays": [
                 {
-                    "price": "$286.53",
+                    "id": "1",
+                    "price": "",
                     "image1": "",
                     "image2": "",
                     "image3": "",
-                    "image4": "", 
-                },
-                {
-                    "id": "1",
-                    "image": " "
+                    "image4": ""
                 },
                 {
                     "id": "2",
-                    "image": " "
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
                 },
                 {
                     "id": "3",
-                    "image": " "
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
                 },
                 {
                     "id": "4",
-                    "image": " "
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "destination": "Whistler, Canada",
+            "image": "",
+            "category": "ski bum all the way",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "destination": "Aspen, CO",
+            "image": "",
+            "category": "ski bum all the way",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "destination": "Dolomites, Italy",
+            "image": "",
+            "category": "ski bum all the way",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "destination": "Bora Bora",
+            "image": "",
+            "category": "salt-water soul",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "destination": "Fiji",
+            "image": "",
+            "category": "salt-water soul",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "destination": "Mauritius",
+            "image": "",
+            "category": "salt-water soul",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "destination": "Tahiti",
+            "image": "",
+            "category": "salt-water soul",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "destination": "Sedona, Arizona",
+            "image": "",
+            "category": "stressed and distressed and need a wellness getaway",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "destination": "Costa Rica",
+            "image": "",
+            "category": "stressed and distressed and need a wellness getaway",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "destination": "Kauai, Hawaii",
+            "image": "",
+            "category": "stressed and distressed and need a wellness getaway",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "destination": "Ojai, California",
+            "image": "",
+            "category": "stressed and distressed and need a wellness getaway",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "destination": "Ibiza",
+            "image": "",
+            "category": "just here to party",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "destination": "Rio de Janeiro",
+            "image": "",
+            "category": "just here to party",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "destination": "Miami",
+            "image": "",
+            "category": "just here to party",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "destination": "Las Vegas",
+            "image": "",
+            "category": "just here to party",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "destination": "Bali, Indonesia",
+            "image": "",
+            "category": "super spiritual yogi seeking enlightenment",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "destination": "Rishikesh, India",
+            "image": "",
+            "category": "super spiritual yogi seeking enlightenment",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "destination": "Koh Samui, Thailand",
+            "image": "",
+            "category": "super spiritual yogi seeking enlightenment",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "destination": "Tulum, Mexico",
+            "image": "",
+            "category": "super spiritual yogi seeking enlightenment",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "destination": "Seattle, Washington",
+            "image": "",
+            "category": "hipster, coffee snob, tree hugger",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "destination": "Boulder, Colorado",
+            "image": "",
+            "category": "hipster, coffee snob, tree hugger",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "23",
+            "destination": "Portland, Oregon",
+            "image": "",
+            "category": "hipster, coffee snob, tree hugger",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "24",
+            "destination": "Berkeley, California",
+            "image": "",
+            "category": "hipster, coffee snob, tree hugger",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "25",
+            "destination": "Rome",
+            "image": "",
+            "category": "city-goer who loves culture and learning",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "destination": "New York City",
+            "image": "",
+            "category": "city-goer who loves culture and learning",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "27",
+            "destination": "Istanbul",
+            "image": "",
+            "category": "city-goer who loves culture and learning",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                }
+            ]
+        },
+        {
+            "id": "28",
+            "destination": "Jerusalem",
+            "image": "",
+            "category": "city-goer who loves culture and learning",
+            "stays": [
+                {
+                    "id": "1",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "2",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "3",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
+                },
+                {
+                    "id": "4",
+                    "price": "",
+                    "image1": "",
+                    "image2": "",
+                    "image3": "",
+                    "image4": ""
                 }
             ]
         }
+       
     ]
 }
