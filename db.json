@@ -8,35 +8,35 @@
             "stays": [
                 {
                     "id": "1",
-                    "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
+                    "price": "$345.24 per night",
+                    "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
+                    "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
+                    "image3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
                     "image4": ""
                 },
                 {
                     "id": "2",
-                    "price": "",
-                    "image1": "",
-                    "image2": "",
+                    "price": "$342.34 per night",
+                    "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
+                    "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
                     "image3": "",
                     "image4": ""
                 },
                 {
                     "id": "3",
-                    "price": "",
-                    "image1": "",
-                    "image2": "",
+                    "price": "$235.43 per night",
+                    "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
+                    "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
                     "image3": "",
                     "image4": ""
                 },
                 {
                     "id": "4",
-                    "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "price": "$224 per night",
+                    "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
+                    "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
+                    "image3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
+                    "image4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s"
                 }
             ]
         },

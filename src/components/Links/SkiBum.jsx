@@ -1,12 +1,24 @@
 import React from "react"
+import { Link } from "react-router-dom"
 
-function SkiBum({ destinations }) {
-    
+function SkiBum({ destinations, filterBy, setFilterBy }) {
 
-    const destinationsList = destinations.map((destination) => {
+    const filteredDestinations = destinations.filter((individual) => {
+        if (individual.category === filterBy) {
+            return true
+        } else {
+            return false
+        }
+    })
+
+    const destinationsList = filteredDestinations.map((destination) => {
         return <div key={destination.id} >
-            <h1>{destination.destination}</h1>
-            <img src={destination.image} />
+            <Link to="SkiBumStays">
+                <h1>{destination.destination}</h1>
+            </Link> 
+            <Link to="SkiBumStays">
+                <img src={destination.image} />
+            </Link>
         </div>
     })
 
@@ -14,6 +26,7 @@ function SkiBum({ destinations }) {
         <div>
             <h1>We like your style! Now choose your destination:</h1>
             <h2>{destinationsList}</h2>
+            <h3 value={filterBy} onChange={function (e) { setFilterBy(e.target.value) }}></h3>
         </div>
     )
 }
