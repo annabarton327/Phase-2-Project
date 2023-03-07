@@ -3,576 +3,405 @@
         {
             "id": "1",
             "destination": "Verbier, Switzerland",
-            "image": "https://blog.savills.com/_images/chalet-digby(3).jpg",
+            "image": "https://i.pinimg.com/564x/81/d5/20/81d5206b89f67dc5beeab8f7854ca507.jpg",
             "category": "ski bum all the way",
             "stays": [
                 {
                     "id": "1",
                     "price": "$345.24 per night",
-                    "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
-                    "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
-                    "image3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
-                    "image4": ""
+                    "image1": "https://pea-7f65.kxcdn.com/img/image_db/chalet-l-raphael-verbier-18-1920.webp"
                 },
                 {
                     "id": "2",
                     "price": "$342.34 per night",
-                    "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
-                    "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://i.pinimg.com/474x/71/fd/aa/71fdaab666c1c96293bcf80f8d521e70.jpg"
                 },
                 {
                     "id": "3",
                     "price": "$235.43 per night",
-                    "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
-                    "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://i.pinimg.com/474x/b7/c4/04/b7c4048d032fbf8558b8d5316ec69934.jpg"
                 },
                 {
                     "id": "4",
                     "price": "$224 per night",
-                    "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
-                    "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
-                    "image3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s",
-                    "image4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqg0FpxKrBRpHATcJtgkbAfwDzpLnZP5-Zxbz0afb&s"
+                    "image1": "https://i.pinimg.com/474x/a5/87/62/a58762a7058104e6827733f3b78f3ad2.jpg"
                 }
             ]
         },
         {
             "id": "2",
             "destination": "Whistler, Canada",
-            "image": "",
+            "image": "https://dam-assets.vailresorts.com/is/image/vailresorts/McColm_D753422t2:Featured-Content-AND-Sliding-Cards-AND-Container-Long-Amount?resMode=sharp2&w=855&h=480&wid=392&fit=constrain,1&dpr=on,2.625",
             "category": "ski bum all the way",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/0324b5a561616195636fa7701b74af0f-cc_ft_1536.webp"
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/5cda24e4e2ac34815aa9718d3189777f-cc_ft_1536.webp"
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/6e77c60f45161abf4c142f7d52e3beb9-cc_ft_1536.webp"
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/bd68c0e3692d3968e174d7078d1e4187-cc_ft_1536.webp"
                 }
             ]
         },
         {
             "id": "3",
             "destination": "Aspen, CO",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/39/df/c2/39dfc2caeea2477c5b50a29967f56c2b.jpg",
             "category": "ski bum all the way",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/18b426bcc56bdbc30b92cd262ee70f30-p_e.jpg"
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/f469b64afb08b08e9d99eb2d8f8b2c5a-p_e.jpg"
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/c3ccc47d13e6288dd70f21f754ff8b68-p_e.jpg"
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/4ad6584dbb290b283a809c4d86b6df42-p_e.jpg"
                 }
             ]
         },
         {
             "id": "4",
             "destination": "Dolomites, Italy",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/0d/52/b7/0d52b7f17153e7c474205bb70eeeb7cc.jpg",
             "category": "ski bum all the way",
             "stays": [
                 {
                     "id": "1",
-                    "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "price": "$3234",
+                    "image1": ""
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 }
             ]
         },
         {
             "id": "5",
             "destination": "Bora Bora",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/8b/62/1f/8b621fdfe6d8519d76fb10fb430ea871.jpg",
             "category": "salt-water soul",
             "stays": [
                 {
                     "id": "1",
-                    "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "price": "3453",
+                    "image1": ""
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 }
             ]
         },
         {
             "id": "6",
             "destination": "Fiji",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/6b/08/65/6b0865ffa3a220d4ca90f0af49d0bb41.jpg",
             "category": "salt-water soul",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 }
             ]
         },
         {
             "id": "7",
             "destination": "Mauritius",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/b4/06/38/b4063870db9b3a5375396aaae6c0c150.jpg",
             "category": "salt-water soul",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 }
             ]
         },
         {
             "id": "8",
             "destination": "Tahiti",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/e2/9a/49/e29a49d0f19085cc461a6daf6ed36329.jpg",
             "category": "salt-water soul",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 }
             ]
         },
         {
             "id": "9",
             "destination": "Sedona, Arizona",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/ce/f9/dd/cef9dd06d18ad3ae34e7823e57436782.jpg",
             "category": "stressed and distressed and need a wellness getaway",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/083f85deced8cda60aa1dcfec91ba71b-p_e.jpg"
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/f1f44dba39d822ca7031c421a859e036-cc_ft_1536.webp"
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/62f771330429de9fdc2c3fe662178a4a-cc_ft_1536.webp"
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/fdd4b06ba92e601ba6d65e1ebaaa53b2-cc_ft_1536.webp"
                 }
             ]
         },
         {
             "id": "10",
-            "destination": "Costa Rica",
-            "image": "",
+            "destination": "Puerto Caldera, Costa Rica",
+            "image": "https://i.pinimg.com/564x/3a/aa/7f/3aaa7fe1fb92ec09bad47b547a6e088f.jpg",
             "category": "stressed and distressed and need a wellness getaway",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 }
             ]
         },
         {
             "id": "11",
             "destination": "Kauai, Hawaii",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/9a/42/ba/9a42ba6e46edb0ad3bb58a86c2ba9449.jpg",
             "category": "stressed and distressed and need a wellness getaway",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/c391988bf063db6d2bd55e147bf51d3d-cc_ft_1536.webp"
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/4568dceded3096abcc548b8e2615a7f8-p_e.jpg"
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/3ab88f0c20ee410fbb74910d6b984c41-p_e.jpg"
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/77b929afb925ac14e441be9ce25bbac8-p_e.jpg"
                 }
             ]
         },
         {
             "id": "12",
             "destination": "Ojai, California",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/7f/38/43/7f38436c6b9fae5d1265c7a98d3b6221.jpg",
             "category": "stressed and distressed and need a wellness getaway",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/b0391aa94bbd536a5219dc16945419af-p_e.jpg"
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/4b0ae555d2a0677d24b3f28017ec329a-cc_ft_1536.webp"
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/e02687c098f993fcac2c692b0e379c17-cc_ft_1536.webp"
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": "https://photos.zillowstatic.com/fp/d85945fd1c6d1cb8855cf6328c386a6e-cc_ft_1536.webp"
                 }
             ]
         },
         {
             "id": "13",
             "destination": "Ibiza",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/f8/a2/46/f8a24646d0d00c37daa72a184807c6b6.jpg",
             "category": "just here to party",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 }
             ]
         },
         {
             "id": "14",
             "destination": "Rio de Janeiro",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/dc/48/c7/dc48c76e5dcf9bbd91de357a2209824e.jpg",
             "category": "just here to party",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "2",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "3",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "4",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 }
             ]
         },
         {
             "id": "15",
             "destination": "Miami",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/0a/03/3b/0a033b9c2127e8c79f6dcb3d08055c70.jpg",
             "category": "just here to party",
             "stays": [
                 {
                     "id": "1",
                     "price": "",
-                    "image1": "",
-                    "image2": "",
-                    "image3": "",
-                    "image4": ""
+                    "image1": ""
                 },
                 {
                     "id": "2",
@@ -603,7 +432,7 @@
         {
             "id": "16",
             "destination": "Las Vegas",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/ec/43/e4/ec43e459c1d9e878d904cfdb46f99eda.jpg",
             "category": "just here to party",
             "stays": [
                 {
@@ -643,7 +472,7 @@
         {
             "id": "17",
             "destination": "Bali, Indonesia",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/02/21/ad/0221ad079845c3157be2a3e2bef978ce.jpg",
             "category": "super spiritual yogi seeking enlightenment",
             "stays": [
                 {
@@ -683,12 +512,12 @@
         {
             "id": "18",
             "destination": "Rishikesh, India",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/fa/f3/1c/faf31c3fdc59922c55ab22b50518a56a.jpg",
             "category": "super spiritual yogi seeking enlightenment",
             "stays": [
                 {
                     "id": "1",
-                    "price": "",
+                    "price": "543",
                     "image1": "",
                     "image2": "",
                     "image3": "",
@@ -723,7 +552,7 @@
         {
             "id": "19",
             "destination": "Koh Samui, Thailand",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/12/99/ce/1299ce1c724c04f96045ec2aa62083d0.jpg",
             "category": "super spiritual yogi seeking enlightenment",
             "stays": [
                 {
@@ -763,7 +592,7 @@
         {
             "id": "20",
             "destination": "Tulum, Mexico",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/fa/84/56/fa84564e78db58b48e10a245bb7fdb56.jpg",
             "category": "super spiritual yogi seeking enlightenment",
             "stays": [
                 {
@@ -803,7 +632,7 @@
         {
             "id": "21",
             "destination": "Seattle, Washington",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/35/ef/c5/35efc539fc4249b54fda4223f53f3fc5.jpg",
             "category": "hipster, coffee snob, tree hugger",
             "stays": [
                 {
@@ -843,7 +672,7 @@
         {
             "id": "22",
             "destination": "Boulder, Colorado",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/6a/87/26/6a8726f0e5937e76f93d4eb4544f7464.jpg",
             "category": "hipster, coffee snob, tree hugger",
             "stays": [
                 {
@@ -883,7 +712,7 @@
         {
             "id": "23",
             "destination": "Portland, Oregon",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/43/31/b6/4331b618ae76582ed26a04172f720dc8.jpg",
             "category": "hipster, coffee snob, tree hugger",
             "stays": [
                 {
@@ -923,7 +752,7 @@
         {
             "id": "24",
             "destination": "Berkeley, California",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/62/29/fd/6229fdb45fab4bd9f55c8c2619825a8e.jpg",
             "category": "hipster, coffee snob, tree hugger",
             "stays": [
                 {
@@ -963,7 +792,7 @@
         {
             "id": "25",
             "destination": "Rome",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/61/f7/7f/61f77fae80a6110685b2feca40403e2d.jpg",
             "category": "city-goer who loves culture and learning",
             "stays": [
                 {
@@ -1003,7 +832,7 @@
         {
             "id": "26",
             "destination": "New York City",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/71/1c/68/711c685ba2618063f1454d25776ea1ad.jpg",
             "category": "city-goer who loves culture and learning",
             "stays": [
                 {
@@ -1043,7 +872,7 @@
         {
             "id": "27",
             "destination": "Istanbul",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/8e/54/44/8e544425c4b2bca91d0e3790ad165462.jpg",
             "category": "city-goer who loves culture and learning",
             "stays": [
                 {
@@ -1083,7 +912,7 @@
         {
             "id": "28",
             "destination": "Jerusalem",
-            "image": "",
+            "image": "https://i.pinimg.com/564x/02/db/04/02db04b8550e0a811129a04696cb1870.jpg",
             "category": "city-goer who loves culture and learning",
             "stays": [
                 {
@@ -1120,6 +949,5 @@
                 }
             ]
         }
-       
     ]
 }
