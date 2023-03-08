@@ -12,9 +12,9 @@ function SkiBum({ destinations, filterBy, setFilterById }) {
     })
 
     const destinationsList = filteredDestinations.map((destination) => {
-        return <div key={destination.id} >
+        return <div className="image-container" key={destination.id} >
             <Link to="SkiBumStays" onClick={()=>setFilterById(destination.id)} >
-                <h1>{destination.destination}</h1>
+                <h1 className="link-button">{destination.destination}</h1>
             </Link> 
             <Link to="SkiBumStays" onClick={()=>setFilterById(destination.id)} >
                 <img src={destination.image} />
@@ -24,7 +24,7 @@ function SkiBum({ destinations, filterBy, setFilterById }) {
 
     return (
         <div>
-            <h1>We like your style! Now choose your destination:</h1>
+            <h1 className="heading1">We like your style! Now choose your destination:</h1>
             <h2>{destinationsList}</h2>
         </div>
     )

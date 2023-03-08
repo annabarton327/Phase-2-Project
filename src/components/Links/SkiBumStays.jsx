@@ -12,16 +12,16 @@ function SkiBumStays({ destinations, filterById, setFilterById }) {
 
     const staysList = filteredDestinations.map((destination) => {
         return (destination.stays.map(stay => {
-            return <div key={stay.id} >
-                <h1>{stay.price}</h1>
-                <img src={stay.image1} />
+            return <div className="image-container" key={stay.id} >
+                <h1 className="link-button"> ${stay.price} per night </h1>
+                <img src={stay.image1} style={{ maxWidth: "50%", height: "auto" }} />
             </div>
         }))
     })
 
     return (
         <div>
-            <h1>Great choice! Choose your stay:</h1>
+            <h1 className="heading1">Great choice! Now choose your stay:</h1>
             <h2>{staysList} </h2>
         </div>
     )
