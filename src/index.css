@@ -12,6 +12,21 @@
   transition: transform .1s ease-in-out;
 }
 
+.link-button1 {
+  float: right;
+  display: inline-block;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  padding: .75rem 1.375rem;
+  color: bisque;
+  font-weight: 700;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform .1s ease-in-out;
+}
+
 body {
   background-color: #FFFFFF;
 }
@@ -21,8 +36,8 @@ body {
   font-weight: bold;
   color: bisque;
   text-align: center;
-  margin-top: 30px;
-  margin-bottom: 10px;
+  margin-top: -10px;
+  margin-bottom: 5px;
 }
 
 .heading1 {
@@ -30,8 +45,20 @@ body {
   font-weight: bold;
   color:cadetblue;
   text-align: center;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-bottom: 15px;
+}
+
+.headingdest {
+  float: left
+  font-weight: bold;
+  color:cadetblue;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.headingdest{
+  font-size: 70px;
 }
 
 .stylepage {
@@ -62,12 +89,12 @@ body {
 }
 
 .heading3 {
-  font-size: 27px;
+  font-size: 20px;
   font-weight: bold;
-  color: cadetblue;
+  color:darkseagreen;
   text-align: center;
-  margin-top: 5px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .image-grid {
@@ -103,4 +130,41 @@ body {
 
 em {
   font-style: italic;
+}
+
+#default-text {
+  display:contents;
+}
+
+.hi {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px
+}
+
+img {
+  flex:1
+}
+
+img {
+  width: 25%
+}
+
+img {
+  margin-right: 20px
+}
+
+.section{
+  border-bottom: 1px dashed rgb(24, 145, 153);
+}
+
+.hi1 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 100px
+}
+
+.hi1 img {
+flex:1
+
 }

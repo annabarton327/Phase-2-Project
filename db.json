@@ -1,788 +1,808 @@
 {
-    "destinations": [
+  "destinations": [
+    {
+      "id": "1",
+      "destination": "Verbier, Switzerland",
+      "image": "https://i.pinimg.com/564x/81/d5/20/81d5206b89f67dc5beeab8f7854ca507.jpg",
+      "category": "ski bum all the way",
+      "stays": [
         {
-            "id": "1",
-            "destination": "Verbier, Switzerland",
-            "image": "https://i.pinimg.com/564x/81/d5/20/81d5206b89f67dc5beeab8f7854ca507.jpg",
-            "category": "ski bum all the way",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "345.24",
-                    "image1": "https://pea-7f65.kxcdn.com/img/image_db/chalet-l-raphael-verbier-18-1920.webp"
-                },
-                {
-                    "id": "2",
-                    "price": "342.34",
-                    "image1": "https://i.pinimg.com/474x/71/fd/aa/71fdaab666c1c96293bcf80f8d521e70.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "235.43",
-                    "image1": "https://i.pinimg.com/474x/b7/c4/04/b7c4048d032fbf8558b8d5316ec69934.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "224",
-                    "image1": "https://i.pinimg.com/474x/a5/87/62/a58762a7058104e6827733f3b78f3ad2.jpg"
-                }
-            ]
+          "id": "1",
+          "price": "345.24",
+          "image1": "https://pea-7f65.kxcdn.com/img/image_db/chalet-l-raphael-verbier-18-1920.webp"
         },
         {
-            "id": "2",
-            "destination": "Whistler, Canada",
-            "image": "https://dam-assets.vailresorts.com/is/image/vailresorts/McColm_D753422t2:Featured-Content-AND-Sliding-Cards-AND-Container-Long-Amount?resMode=sharp2&w=855&h=480&wid=392&fit=constrain,1&dpr=on,2.625",
-            "category": "ski bum all the way",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "234",
-                    "image1": "https://photos.zillowstatic.com/fp/0324b5a561616195636fa7701b74af0f-cc_ft_1536.webp"
-                },
-                {
-                    "id": "2",
-                    "price": "674",
-                    "image1": "https://photos.zillowstatic.com/fp/5cda24e4e2ac34815aa9718d3189777f-cc_ft_1536.webp"
-                },
-                {
-                    "id": "3",
-                    "price": "78442",
-                    "image1": "https://photos.zillowstatic.com/fp/6e77c60f45161abf4c142f7d52e3beb9-cc_ft_1536.webp"
-                },
-                {
-                    "id": "4",
-                    "price": "234",
-                    "image1": "https://photos.zillowstatic.com/fp/bd68c0e3692d3968e174d7078d1e4187-cc_ft_1536.webp"
-                }
-            ]
+          "id": "2",
+          "price": "342.34",
+          "image1": "https://i.pinimg.com/474x/71/fd/aa/71fdaab666c1c96293bcf80f8d521e70.jpg"
         },
         {
-            "id": "3",
-            "destination": "Aspen, CO",
-            "image": "https://i.pinimg.com/564x/39/df/c2/39dfc2caeea2477c5b50a29967f56c2b.jpg",
-            "category": "ski bum all the way",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "4543",
-                    "image1": "https://photos.zillowstatic.com/fp/18b426bcc56bdbc30b92cd262ee70f30-p_e.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "12",
-                    "image1": "https://photos.zillowstatic.com/fp/f469b64afb08b08e9d99eb2d8f8b2c5a-p_e.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "34",
-                    "image1": "https://photos.zillowstatic.com/fp/c3ccc47d13e6288dd70f21f754ff8b68-p_e.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "8445",
-                    "image1": "https://photos.zillowstatic.com/fp/4ad6584dbb290b283a809c4d86b6df42-p_e.jpg"
-                }
-            ]
+          "id": "3",
+          "price": "235.43",
+          "image1": "https://i.pinimg.com/474x/b7/c4/04/b7c4048d032fbf8558b8d5316ec69934.jpg"
         },
         {
-            "id": "4",
-            "destination": "Dolomites, Italy",
-            "image": "https://i.pinimg.com/564x/0d/52/b7/0d52b7f17153e7c474205bb70eeeb7cc.jpg",
-            "category": "ski bum all the way",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "3234",
-                    "image1": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-44116616/original/1dda7c4d-64b7-480a-9971-5730a117186e.jpeg?im_w=720"
-                },
-                {
-                    "id": "2",
-                    "price": "324",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-51579894/original/d3d0e15b-84b5-44fb-984f-51ef58c71935.jpeg?im_w=720"
-                },
-                {
-                    "id": "3",
-                    "price": "742",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-44225892/original/71d470ba-70fb-4958-ae24-527f7db73b30.jpeg?im_w=1200"
-                },
-                {
-                    "id": "4",
-                    "price": "6431",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-45331024/original/90923343-e290-42de-b913-77ce50625ee9.jpeg?im_w=720"
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "destination": "Bora Bora",
-            "image": "https://i.pinimg.com/564x/8b/62/1f/8b621fdfe6d8519d76fb10fb430ea871.jpg",
-            "category": "salt-water soul",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "3453",
-                    "image1": "https://a0.muscache.com/im/pictures/45183280/eabcdd15_original.jpg?im_w=720"
-                },
-                {
-                    "id": "2",
-                    "price": "232",
-                    "image1": "https://a0.muscache.com/im/pictures/f7b06067-998e-4bbe-9daf-b69ad1b4089a.jpg?im_w=720"
-                },
-                {
-                    "id": "3",
-                    "price": "345",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-50973908/original/464cee8c-c0e7-4943-b11a-86d756d3ed2a.jpeg?im_w=720"
-                },
-                {
-                    "id": "4",
-                    "price": "731",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-53468833/original/291bad36-3047-4f07-91ce-eca832fd0567.jpeg?im_w=720"
-                }
-            ]
-        },
-        {
-            "id": "6",
-            "destination": "Fiji",
-            "image": "https://i.pinimg.com/564x/6b/08/65/6b0865ffa3a220d4ca90f0af49d0bb41.jpg",
-            "category": "salt-water soul",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "843",
-                    "image1": "https://a0.muscache.com/im/pictures/f5e097ed-4eb1-41a7-85e3-572cc278acef.jpg?im_w=720"
-                },
-                {
-                    "id": "2",
-                    "price": "12",
-                    "image1": "https://a0.muscache.com/im/pictures/7aa07d52-f8c4-4765-9328-430ec86b81cc.jpg?im_w=720"
-                },
-                {
-                    "id": "3",
-                    "price": "542",
-                    "image1": "https://s3.rea.global/img/1208x680-prop/realtor/fj/a80f5c335733ec9534946127f6f4cc23.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "235",
-                    "image1": "https://i.pinimg.com/564x/e9/d4/ba/e9d4ba62b169dcd02f0322bfd049daf5.jpg"
-                }
-            ]
-        },
-        {
-            "id": "7",
-            "destination": "Mauritius",
-            "image": "https://i.pinimg.com/564x/b4/06/38/b4063870db9b3a5375396aaae6c0c150.jpg",
-            "category": "salt-water soul",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "324",
-                    "image1": "https://i.pinimg.com/564x/ee/79/cc/ee79cce147561fae9e217929af8d696f.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "153",
-                    "image1": "https://i.pinimg.com/564x/39/24/a3/3924a381fa7a2e10af81f5ed124177b2.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "541",
-                    "image1": "https://i.pinimg.com/564x/0d/be/93/0dbe93b9ade8e3f1d70c756efced2d7f.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "748",
-                    "image1": "https://i.pinimg.com/564x/34/92/cd/3492cdfb62bbfe1eb6efc77901a559c1.jpg"
-                }
-            ]
-        },
-        {
-            "id": "8",
-            "destination": "Tahiti",
-            "image": "https://i.pinimg.com/564x/e2/9a/49/e29a49d0f19085cc461a6daf6ed36329.jpg",
-            "category": "salt-water soul",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "951",
-                    "image1": "https://i.pinimg.com/564x/2f/ad/2f/2fad2fca0adf27bdbc339b5bf59cc8d5.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "852",
-                    "image1": "https://i.pinimg.com/564x/c2/e2/f6/c2e2f6e4d2831f9f572fa04a3cc79449.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "976",
-                    "image1": "https://i.pinimg.com/564x/53/b3/c7/53b3c7a3c4202b9936fbf8246932d645.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "613",
-                    "image1": "https://i.pinimg.com/564x/2b/5b/b0/2b5bb0434b8af5d2a58d403aee2dfe44.jpg"
-                }
-            ]
-        },
-        {
-            "id": "9",
-            "destination": "Sedona, Arizona",
-            "image": "https://i.pinimg.com/564x/ce/f9/dd/cef9dd06d18ad3ae34e7823e57436782.jpg",
-            "category": "stressed and distressed and need a wellness getaway",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "518",
-                    "image1": "https://photos.zillowstatic.com/fp/083f85deced8cda60aa1dcfec91ba71b-p_e.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "75",
-                    "image1": "https://photos.zillowstatic.com/fp/f1f44dba39d822ca7031c421a859e036-cc_ft_1536.webp"
-                },
-                {
-                    "id": "3",
-                    "price": "72",
-                    "image1": "https://photos.zillowstatic.com/fp/62f771330429de9fdc2c3fe662178a4a-cc_ft_1536.webp"
-                },
-                {
-                    "id": "4",
-                    "price": "235",
-                    "image1": "https://photos.zillowstatic.com/fp/fdd4b06ba92e601ba6d65e1ebaaa53b2-cc_ft_1536.webp"
-                }
-            ]
-        },
-        {
-            "id": "10",
-            "destination": "Puerto Caldera, Costa Rica",
-            "image": "https://i.pinimg.com/564x/3a/aa/7f/3aaa7fe1fb92ec09bad47b547a6e088f.jpg",
-            "category": "stressed and distressed and need a wellness getaway",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "574",
-                    "image1": "https://i.pinimg.com/564x/7a/d8/ca/7ad8ca65b9c32c39ce9482625bb0fb93.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "457",
-                    "image1": "https://i.pinimg.com/564x/a2/ac/50/a2ac5016c9fea19b6cf08b9818ab6f4e.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "242",
-                    "image1": "https://i.pinimg.com/564x/64/b1/06/64b1060d90b3698dd4822d2573d16d95.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "425",
-                    "image1": "https://i.pinimg.com/564x/89/3c/db/893cdb0371a0c30946ad6d365c830ed2.jpg"
-                }
-            ]
-        },
-        {
-            "id": "11",
-            "destination": "Kauai, Hawaii",
-            "image": "https://i.pinimg.com/564x/9a/42/ba/9a42ba6e46edb0ad3bb58a86c2ba9449.jpg",
-            "category": "stressed and distressed and need a wellness getaway",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "856",
-                    "image1": "https://photos.zillowstatic.com/fp/c391988bf063db6d2bd55e147bf51d3d-cc_ft_1536.webp"
-                },
-                {
-                    "id": "2",
-                    "price": "874",
-                    "image1": "https://photos.zillowstatic.com/fp/4568dceded3096abcc548b8e2615a7f8-p_e.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "13",
-                    "image1": "https://photos.zillowstatic.com/fp/3ab88f0c20ee410fbb74910d6b984c41-p_e.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "132",
-                    "image1": "https://photos.zillowstatic.com/fp/77b929afb925ac14e441be9ce25bbac8-p_e.jpg"
-                }
-            ]
-        },
-        {
-            "id": "12",
-            "destination": "Ojai, California",
-            "image": "https://i.pinimg.com/564x/7f/38/43/7f38436c6b9fae5d1265c7a98d3b6221.jpg",
-            "category": "stressed and distressed and need a wellness getaway",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "12",
-                    "image1": "https://photos.zillowstatic.com/fp/b0391aa94bbd536a5219dc16945419af-p_e.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "31",
-                    "image1": "https://photos.zillowstatic.com/fp/4b0ae555d2a0677d24b3f28017ec329a-cc_ft_1536.webp"
-                },
-                {
-                    "id": "3",
-                    "price": "4",
-                    "image1": "https://photos.zillowstatic.com/fp/e02687c098f993fcac2c692b0e379c17-cc_ft_1536.webp"
-                },
-                {
-                    "id": "4",
-                    "price": "45",
-                    "image1": "https://photos.zillowstatic.com/fp/d85945fd1c6d1cb8855cf6328c386a6e-cc_ft_1536.webp"
-                }
-            ]
-        },
-        {
-            "id": "13",
-            "destination": "Ibiza",
-            "image": "https://i.pinimg.com/564x/f8/a2/46/f8a24646d0d00c37daa72a184807c6b6.jpg",
-            "category": "just here to party",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "521",
-                    "image1": "https://i.pinimg.com/564x/5a/51/6e/5a516ef4c90da1899ddf81f41e298f53.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "4235",
-                    "image1": "https://i.pinimg.com/564x/8d/54/b3/8d54b3d1f36ae3c1371a7d824778e15b.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "135",
-                    "image1": "https://i.pinimg.com/564x/58/8e/6d/588e6d4f106e76867e4ddf4e8bd81b88.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "642",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-643305614074923990/original/aab3fc78-a98d-480d-afd0-4d9b2dbca324.jpeg?im_w=1200"
-                }
-            ]
-        },
-        {
-            "id": "14",
-            "destination": "Rio de Janeiro, Brazil",
-            "image": "https://i.pinimg.com/564x/dc/48/c7/dc48c76e5dcf9bbd91de357a2209824e.jpg",
-            "category": "just here to party",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "631",
-                    "image1": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-782695640629451530/original/a3bd8195-6f94-47cd-87f2-59126f15ccd6.jpeg?im_w=1200"
-                },
-                {
-                    "id": "2",
-                    "price": "7355",
-                    "image1": "https://a0.muscache.com/im/pictures/e880e630-2bb9-451f-b5dc-10f5891d3318.jpg?im_w=1440"
-                },
-                {
-                    "id": "3",
-                    "price": "134",
-                    "image1": "https://a0.muscache.com/im/pictures/1e2bff91-dfa1-4b40-b1f9-1dceb14a21ba.jpg?im_w=1200"
-                },
-                {
-                    "id": "4",
-                    "price": "351",
-                    "image1": "https://a0.muscache.com/im/pictures/2f39286a-e60b-4bcc-80b8-6cd0231982d0.jpg?im_w=1440"
-                }
-            ]
-        },
-        {
-            "id": "15",
-            "destination": "Miami, Florida",
-            "image": "https://i.pinimg.com/564x/0a/03/3b/0a033b9c2127e8c79f6dcb3d08055c70.jpg",
-            "category": "just here to party",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "513",
-                    "image1": "https://photos.zillowstatic.com/fp/d4f5dc784e8159cc3b699fab88ea69b9-cc_ft_1536.webp"
-                },
-                {
-                    "id": "2",
-                    "price": "135",
-                    "image1": "https://photos.zillowstatic.com/fp/190caba9c8f61aa73b52a1391a660814-cc_ft_768.webp"
-                },
-                {
-                    "id": "3",
-                    "price": "646",
-                    "image1": "https://photos.zillowstatic.com/fp/d35530d9773a26096f678e0d828b6e81-cc_ft_768.webp"
-                },
-                {
-                    "id": "4",
-                    "price": "643",
-                    "image1": "https://photos.zillowstatic.com/fp/a478f0a335fd0018085232e58ad5ccc4-cc_ft_1536.webp"
-                }
-            ]
-        },
-        {
-            "id": "16",
-            "destination": "Las Vegas, California",
-            "image": "https://i.pinimg.com/564x/ec/43/e4/ec43e459c1d9e878d904cfdb46f99eda.jpg",
-            "category": "just here to party",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "7854",
-                    "image1": "https://photos.zillowstatic.com/fp/ffc30740b49979b445b86b45ed34ff36-p_e.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "451",
-                    "image1": "https://photos.zillowstatic.com/fp/b89c2c77d0212b9da27c5915f01b61fd-p_e.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "13",
-                    "image1": "https://photos.zillowstatic.com/fp/c183dd1a47d1e253e05c14414e9f2c09-p_e.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "153",
-                    "image1": "https://photos.zillowstatic.com/fp/8809925d3c24e0b0223f1a9ecd1b48c0-p_e.jpg"
-                }
-            ]
-        },
-        {
-            "id": "17",
-            "destination": "Bali, Indonesia",
-            "image": "https://i.pinimg.com/564x/02/21/ad/0221ad079845c3157be2a3e2bef978ce.jpg",
-            "category": "super spiritual yogi seeking enlightenment",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "542",
-                    "image1": "https://www.balirealty.com/wp-content/uploads/2023/03/Jimbaran-Villa-2290-1-1024x614.jpg.webp"
-                },
-                {
-                    "id": "2",
-                    "price": "745",
-                    "image1": "https://www.real-samui-properties.com/prodimages/193328868_376000350766537_5764724882059014603_n.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "831",
-                    "image1": "https://www.real-samui-properties.com/prodimages/Villa_B_01-2.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "838",
-                    "image1": "https://www.real-samui-properties.com/prodimages/1-291.jpg"
-                }
-            ]
-        },
-        {
-            "id": "18",
-            "destination": "Rishikesh, India",
-            "image": "https://i.pinimg.com/564x/fa/f3/1c/faf31c3fdc59922c55ab22b50518a56a.jpg",
-            "category": "super spiritual yogi seeking enlightenment",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "543",
-                    "image1": "https://a0.muscache.com/im/pictures/06e5bda6-ee8f-415c-9beb-94331aee2624.jpg?im_w=720"
-                },
-                {
-                    "id": "2",
-                    "price": "824",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-633774666890409892/original/3560e725-fc75-4c6a-8d4e-41fdb8433a5f.jpeg?im_w=720"
-                },
-                {
-                    "id": "3",
-                    "price": "513",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-633774666890409892/original/dc395cdf-8c60-475b-9238-be647b5d6f9c.jpeg?im_w=720"
-                },
-                {
-                    "id": "4",
-                    "price": "136",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-633774666890409892/original/32d30734-8aab-4d42-8d24-97e0e956aa57.jpeg?im_w=720"
-                }
-            ]
-        },
-        {
-            "id": "19",
-            "destination": "Koh Samui, Thailand",
-            "image": "https://i.pinimg.com/564x/12/99/ce/1299ce1c724c04f96045ec2aa62083d0.jpg",
-            "category": "super spiritual yogi seeking enlightenment",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "632",
-                    "image1": "https://www.real-samui-properties.com/prodimages/1-412.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "236",
-                    "image1": "https://www.real-samui-properties.com/prodimages/1-291-thumb.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "41",
-                    "image1": "https://www.real-samui-properties.com/prodimages/1-237-thumb.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "0",
-                    "image1": "https://www.real-samui-properties.com/prodimages/193328868_376000350766537_5764724882059014603_n-thumb.jpg"
-                }
-            ]
-        },
-        {
-            "id": "20",
-            "destination": "Tulum, Mexico",
-            "image": "https://i.pinimg.com/564x/fa/84/56/fa84564e78db58b48e10a245bb7fdb56.jpg",
-            "category": "super spiritual yogi seeking enlightenment",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "85",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-570880210708677905/original/dc7666f2-e998-40d4-8a57-c8288edc56b2.jpeg?im_w=1200"
-                },
-                {
-                    "id": "2",
-                    "price": "42",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-570880210708677905/original/c07a8df3-39f8-4433-8eda-1d713c8596c3.jpeg?im_w=1440"
-                },
-                {
-                    "id": "3",
-                    "price": "64",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-53588959/original/c838ff01-596c-4b26-90a1-000d89788f46.jpeg?im_w=720"
-                },
-                {
-                    "id": "4",
-                    "price": "3541",
-                    "image1": "https://a0.muscache.com/im/pictures/f915e161-b0d0-4286-a582-90ea3b617d0e.jpg?im_w=1200"
-                }
-            ]
-        },
-        {
-            "id": "21",
-            "destination": "Seattle, Washington",
-            "image": "https://i.pinimg.com/564x/35/ef/c5/35efc539fc4249b54fda4223f53f3fc5.jpg",
-            "category": "hipster, coffee snob, tree hugger",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "4246",
-                    "image1": "https://photos.zillowstatic.com/fp/e50201cc57715ee923008cd46da321c5-cc_ft_1536.webp"
-                },
-                {
-                    "id": "2",
-                    "price": "432",
-                    "image1": "https://photos.zillowstatic.com/fp/7848b19d6f7b0b309ad2a8f5e12d9b20-cc_ft_1536.webp"
-                },
-                {
-                    "id": "3",
-                    "price": "248",
-                    "image1": "https://photos.zillowstatic.com/fp/1f70b4c5decbb5f9ab928aaf75453524-cc_ft_1536.webp"
-                },
-                {
-                    "id": "4",
-                    "price": "6865",
-                    "image1": "https://photos.zillowstatic.com/fp/d4daa4a563262245521022237501f41c-cc_ft_1536.webp"
-                }
-            ]
-        },
-        {
-            "id": "22",
-            "destination": "Boulder, Colorado",
-            "image": "https://i.pinimg.com/564x/6a/87/26/6a8726f0e5937e76f93d4eb4544f7464.jpg",
-            "category": "hipster, coffee snob, tree hugger",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "134",
-                    "image1": "https://photos.zillowstatic.com/fp/6de8581f6d3f7f3a750fc47ed1e36c04-p_e.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "23",
-                    "image1": "https://photos.zillowstatic.com/fp/711474a8be697e6b3ddef6e0e5d31e7f-p_e.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "35",
-                    "image1": "https://photos.zillowstatic.com/fp/65d79fb4b66c1a10c7b1fd7bc82565c8-p_e.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "2",
-                    "image1": "https://photos.zillowstatic.com/fp/42988efe05d3d203cac45f4501c4f0d7-cc_ft_1536.webp"
-                }
-            ]
-        },
-        {
-            "id": "23",
-            "destination": "Portland, Oregon",
-            "image": "https://i.pinimg.com/564x/43/31/b6/4331b618ae76582ed26a04172f720dc8.jpg",
-            "category": "hipster, coffee snob, tree hugger",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "53",
-                    "image1": "https://www.zillow.com/homedetails/12955-NW-Skyline-Blvd-Portland-OR-97231/176524014_zpid/"
-                },
-                {
-                    "id": "2",
-                    "price": "567",
-                    "image1": "https://www.zillow.com/homedetails/264-NW-Macleay-Blvd-Portland-OR-97210/53949846_zpid/"
-                },
-                {
-                    "id": "3",
-                    "price": "8754",
-                    "image1": "https://photos.zillowstatic.com/fp/09ed5293146325435ce836601cca68a4-cc_ft_1536.webp"
-                },
-                {
-                    "id": "4",
-                    "price": "4567",
-                    "image1": "https://photos.zillowstatic.com/fp/5b59f207a1a950798f41bde0eef9b147-cc_ft_1536.webp"
-                }
-            ]
-        },
-        {
-            "id": "24",
-            "destination": "Berkeley, California",
-            "image": "https://i.pinimg.com/564x/62/29/fd/6229fdb45fab4bd9f55c8c2619825a8e.jpg",
-            "category": "hipster, coffee snob, tree hugger",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "346",
-                    "image1": "https://photos.zillowstatic.com/fp/3060c32631ea23b9a9824840028a89a4-p_e.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "865",
-                    "image1": "https://photos.zillowstatic.com/fp/83923472deb62932137090dea8d7ca20-p_e.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "689",
-                    "image1": "https://photos.zillowstatic.com/fp/5f10e4191ed0b292acee057cbce26036-cc_ft_1536.webp"
-                },
-                {
-                    "id": "4",
-                    "price": "452",
-                    "image1": "https://photos.zillowstatic.com/fp/343ceec369a310635ffe164a86d91696-cc_ft_1536.webp"
-                }
-            ]
-        },
-        {
-            "id": "25",
-            "destination": "Rome, Italy",
-            "image": "https://i.pinimg.com/564x/61/f7/7f/61f77fae80a6110685b2feca40403e2d.jpg",
-            "category": "city-goer who loves culture and learning",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "264",
-                    "image1": "https://a0.muscache.com/im/pictures/93370ff4-35fb-4af1-9076-f0c5b30a30fa.jpg?im_w=1200"
-                },
-                {
-                    "id": "2",
-                    "price": "458",
-                    "image1": "https://a0.muscache.com/im/pictures/802b2a86-684f-45b5-8b35-a5f672d91f96.jpg?im_w=1200"
-                },
-                {
-                    "id": "3",
-                    "price": "521",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-645194729944733143/original/daf66483-d03e-40db-a16d-ae4aacca5e3b.jpeg?im_w=1200"
-                },
-                {
-                    "id": "4",
-                    "price": "5432",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-47025821/original/256e7768-14f0-4cea-a838-e718a1cd3c95.jpeg?im_w=1200"
-                }
-            ]
-        },
-        {
-            "id": "26",
-            "destination": "New York City",
-            "image": "https://i.pinimg.com/564x/71/1c/68/711c685ba2618063f1454d25776ea1ad.jpg",
-            "category": "city-goer who loves culture and learning",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "2467",
-                    "image1": "https://photos.zillowstatic.com/fp/1d318cf6544dc15a85160f968327f367-p_e.jpg"
-                },
-                {
-                    "id": "2",
-                    "price": "346",
-                    "image1": "https://photos.zillowstatic.com/fp/d54df4b8e8eedd3cfcaf624a5ed2a9e7-p_e.jpg"
-                },
-                {
-                    "id": "3",
-                    "price": "1358",
-                    "image1": "https://photos.zillowstatic.com/fp/e6716dcb9da9d074e0e45bf688a93beb-p_e.jpg"
-                },
-                {
-                    "id": "4",
-                    "price": "751",
-                    "image1": "https://photos.zillowstatic.com/fp/1ea8b2ae91499a0db9e324297167d28d-p_e.jpg"
-                }
-            ]
-        },
-        {
-            "id": "27",
-            "destination": "Istanbul, Turkey",
-            "image": "https://i.pinimg.com/564x/8e/54/44/8e544425c4b2bca91d0e3790ad165462.jpg",
-            "category": "city-goer who loves culture and learning",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "689",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-35891255/original/6d6015c4-7431-48f7-95e2-89d5218228aa.jpeg?im_w=1200"
-                },
-                {
-                    "id": "2",
-                    "price": "631",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-16224811/original/29a91143-3bb2-488b-a76a-c161318e1c9e.jpeg?im_w=1200"
-                },
-                {
-                    "id": "3",
-                    "price": "237",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-50111556/original/9be23c71-07ab-425b-921e-dfefa6cb260a.jpeg?im_w=1200"
-                },
-                {
-                    "id": "4",
-                    "price": "1588",
-                    "image1": "https://a0.muscache.com/im/pictures/cf28ee26-730d-499e-aa64-55c01bee9c1b.jpg?im_w=1200"
-                }
-            ]
-        },
-        {
-            "id": "28",
-            "destination": "Jerusalem, Israel",
-            "image": "https://i.pinimg.com/564x/02/db/04/02db04b8550e0a811129a04696cb1870.jpg",
-            "category": "city-goer who loves culture and learning",
-            "stays": [
-                {
-                    "id": "1",
-                    "price": "136",
-                    "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-681057519085139102/original/fc956341-7379-41ba-b734-d24ed421d098.jpeg?im_w=1440"
-                },
-                {
-                    "id": "2",
-                    "price": "3578",
-                    "image1": "https://a0.muscache.com/im/pictures/91428633/7e45589e_original.jpg?im_w=1200"
-                },
-                {
-                    "id": "3",
-                    "price": "8653",
-                    "image1": "https://a0.muscache.com/im/pictures/0a70e716-1ca9-43b2-82c4-4b79641d2c8e.jpg?im_w=1200"
-                },
-                {
-                    "id": "4",
-                    "price": "468",
-                    "image1": "https://a0.muscache.com/im/pictures/d8457bfa-3b63-4f3e-9051-2dcacf3ffe91.jpg?im_w=1200"
-                }
-            ]
+          "id": "4",
+          "price": "224",
+          "image1": "https://i.pinimg.com/474x/a5/87/62/a58762a7058104e6827733f3b78f3ad2.jpg"
         }
-    ]
+      ]
+    },
+    {
+      "id": "2",
+      "destination": "Whistler, Canada",
+      "image": "https://dam-assets.vailresorts.com/is/image/vailresorts/McColm_D753422t2:Featured-Content-AND-Sliding-Cards-AND-Container-Long-Amount?resMode=sharp2&w=855&h=480&wid=392&fit=constrain,1&dpr=on,2.625",
+      "category": "ski bum all the way",
+      "stays": [
+        {
+          "id": "1",
+          "price": "234",
+          "image1": "https://photos.zillowstatic.com/fp/0324b5a561616195636fa7701b74af0f-cc_ft_1536.webp"
+        },
+        {
+          "id": "2",
+          "price": "674",
+          "image1": "https://photos.zillowstatic.com/fp/5cda24e4e2ac34815aa9718d3189777f-cc_ft_1536.webp"
+        },
+        {
+          "id": "3",
+          "price": "78442",
+          "image1": "https://photos.zillowstatic.com/fp/6e77c60f45161abf4c142f7d52e3beb9-cc_ft_1536.webp"
+        },
+        {
+          "id": "4",
+          "price": "234",
+          "image1": "https://photos.zillowstatic.com/fp/bd68c0e3692d3968e174d7078d1e4187-cc_ft_1536.webp"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "destination": "Aspen, CO",
+      "image": "https://i.pinimg.com/564x/39/df/c2/39dfc2caeea2477c5b50a29967f56c2b.jpg",
+      "category": "ski bum all the way",
+      "stays": [
+        {
+          "id": "1",
+          "price": "4543",
+          "image1": "https://photos.zillowstatic.com/fp/18b426bcc56bdbc30b92cd262ee70f30-p_e.jpg"
+        },
+        {
+          "id": "2",
+          "price": "12",
+          "image1": "https://photos.zillowstatic.com/fp/f469b64afb08b08e9d99eb2d8f8b2c5a-p_e.jpg"
+        },
+        {
+          "id": "3",
+          "price": "34",
+          "image1": "https://photos.zillowstatic.com/fp/c3ccc47d13e6288dd70f21f754ff8b68-p_e.jpg"
+        },
+        {
+          "id": "4",
+          "price": "8445",
+          "image1": "https://photos.zillowstatic.com/fp/4ad6584dbb290b283a809c4d86b6df42-p_e.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "destination": "Dolomites, Italy",
+      "image": "https://i.pinimg.com/564x/0d/52/b7/0d52b7f17153e7c474205bb70eeeb7cc.jpg",
+      "category": "ski bum all the way",
+      "stays": [
+        {
+          "id": "1",
+          "price": "3234",
+          "image1": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-44116616/original/1dda7c4d-64b7-480a-9971-5730a117186e.jpeg?im_w=720"
+        },
+        {
+          "id": "2",
+          "price": "324",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-51579894/original/d3d0e15b-84b5-44fb-984f-51ef58c71935.jpeg?im_w=720"
+        },
+        {
+          "id": "3",
+          "price": "742",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-44225892/original/71d470ba-70fb-4958-ae24-527f7db73b30.jpeg?im_w=1200"
+        },
+        {
+          "id": "4",
+          "price": "6431",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-45331024/original/90923343-e290-42de-b913-77ce50625ee9.jpeg?im_w=720"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "destination": "Bora Bora",
+      "image": "https://i.pinimg.com/564x/8b/62/1f/8b621fdfe6d8519d76fb10fb430ea871.jpg",
+      "category": "salt-water soul",
+      "stays": [
+        {
+          "id": "1",
+          "price": "3453",
+          "image1": "https://a0.muscache.com/im/pictures/45183280/eabcdd15_original.jpg?im_w=720"
+        },
+        {
+          "id": "2",
+          "price": "232",
+          "image1": "https://a0.muscache.com/im/pictures/f7b06067-998e-4bbe-9daf-b69ad1b4089a.jpg?im_w=720"
+        },
+        {
+          "id": "3",
+          "price": "345",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-50973908/original/464cee8c-c0e7-4943-b11a-86d756d3ed2a.jpeg?im_w=720"
+        },
+        {
+          "id": "4",
+          "price": "731",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-53468833/original/291bad36-3047-4f07-91ce-eca832fd0567.jpeg?im_w=720"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "destination": "Fiji",
+      "image": "https://i.pinimg.com/564x/6b/08/65/6b0865ffa3a220d4ca90f0af49d0bb41.jpg",
+      "category": "salt-water soul",
+      "stays": [
+        {
+          "id": "1",
+          "price": "843",
+          "image1": "https://a0.muscache.com/im/pictures/f5e097ed-4eb1-41a7-85e3-572cc278acef.jpg?im_w=720"
+        },
+        {
+          "id": "2",
+          "price": "12",
+          "image1": "https://a0.muscache.com/im/pictures/7aa07d52-f8c4-4765-9328-430ec86b81cc.jpg?im_w=720"
+        },
+        {
+          "id": "3",
+          "price": "542",
+          "image1": "https://s3.rea.global/img/1208x680-prop/realtor/fj/a80f5c335733ec9534946127f6f4cc23.jpg"
+        },
+        {
+          "id": "4",
+          "price": "235",
+          "image1": "https://i.pinimg.com/564x/e9/d4/ba/e9d4ba62b169dcd02f0322bfd049daf5.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "destination": "Mauritius",
+      "image": "https://i.pinimg.com/564x/b4/06/38/b4063870db9b3a5375396aaae6c0c150.jpg",
+      "category": "salt-water soul",
+      "stays": [
+        {
+          "id": "1",
+          "price": "324",
+          "image1": "https://i.pinimg.com/564x/ee/79/cc/ee79cce147561fae9e217929af8d696f.jpg"
+        },
+        {
+          "id": "2",
+          "price": "153",
+          "image1": "https://i.pinimg.com/564x/39/24/a3/3924a381fa7a2e10af81f5ed124177b2.jpg"
+        },
+        {
+          "id": "3",
+          "price": "541",
+          "image1": "https://i.pinimg.com/564x/0d/be/93/0dbe93b9ade8e3f1d70c756efced2d7f.jpg"
+        },
+        {
+          "id": "4",
+          "price": "748",
+          "image1": "https://i.pinimg.com/564x/34/92/cd/3492cdfb62bbfe1eb6efc77901a559c1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "destination": "Tahiti",
+      "image": "https://i.pinimg.com/564x/e2/9a/49/e29a49d0f19085cc461a6daf6ed36329.jpg",
+      "category": "salt-water soul",
+      "stays": [
+        {
+          "id": "1",
+          "price": "951",
+          "image1": "https://i.pinimg.com/564x/2f/ad/2f/2fad2fca0adf27bdbc339b5bf59cc8d5.jpg"
+        },
+        {
+          "id": "2",
+          "price": "852",
+          "image1": "https://i.pinimg.com/564x/c2/e2/f6/c2e2f6e4d2831f9f572fa04a3cc79449.jpg"
+        },
+        {
+          "id": "3",
+          "price": "976",
+          "image1": "https://i.pinimg.com/564x/53/b3/c7/53b3c7a3c4202b9936fbf8246932d645.jpg"
+        },
+        {
+          "id": "4",
+          "price": "613",
+          "image1": "https://i.pinimg.com/564x/2b/5b/b0/2b5bb0434b8af5d2a58d403aee2dfe44.jpg"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "destination": "Sedona, Arizona",
+      "image": "https://i.pinimg.com/564x/ce/f9/dd/cef9dd06d18ad3ae34e7823e57436782.jpg",
+      "category": "stressed and distressed and need a wellness getaway",
+      "stays": [
+        {
+          "id": "1",
+          "price": "518",
+          "image1": "https://photos.zillowstatic.com/fp/083f85deced8cda60aa1dcfec91ba71b-p_e.jpg"
+        },
+        {
+          "id": "2",
+          "price": "75",
+          "image1": "https://photos.zillowstatic.com/fp/f1f44dba39d822ca7031c421a859e036-cc_ft_1536.webp"
+        },
+        {
+          "id": "3",
+          "price": "72",
+          "image1": "https://photos.zillowstatic.com/fp/62f771330429de9fdc2c3fe662178a4a-cc_ft_1536.webp"
+        },
+        {
+          "id": "4",
+          "price": "235",
+          "image1": "https://photos.zillowstatic.com/fp/fdd4b06ba92e601ba6d65e1ebaaa53b2-cc_ft_1536.webp"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "destination": "Puerto Caldera, Costa Rica",
+      "image": "https://i.pinimg.com/564x/3a/aa/7f/3aaa7fe1fb92ec09bad47b547a6e088f.jpg",
+      "category": "stressed and distressed and need a wellness getaway",
+      "stays": [
+        {
+          "id": "1",
+          "price": "574",
+          "image1": "https://i.pinimg.com/564x/7a/d8/ca/7ad8ca65b9c32c39ce9482625bb0fb93.jpg"
+        },
+        {
+          "id": "2",
+          "price": "457",
+          "image1": "https://i.pinimg.com/564x/a2/ac/50/a2ac5016c9fea19b6cf08b9818ab6f4e.jpg"
+        },
+        {
+          "id": "3",
+          "price": "242",
+          "image1": "https://i.pinimg.com/564x/64/b1/06/64b1060d90b3698dd4822d2573d16d95.jpg"
+        },
+        {
+          "id": "4",
+          "price": "425",
+          "image1": "https://i.pinimg.com/564x/89/3c/db/893cdb0371a0c30946ad6d365c830ed2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "destination": "Kauai, Hawaii",
+      "image": "https://i.pinimg.com/564x/9a/42/ba/9a42ba6e46edb0ad3bb58a86c2ba9449.jpg",
+      "category": "stressed and distressed and need a wellness getaway",
+      "stays": [
+        {
+          "id": "1",
+          "price": "856",
+          "image1": "https://photos.zillowstatic.com/fp/c391988bf063db6d2bd55e147bf51d3d-cc_ft_1536.webp"
+        },
+        {
+          "id": "2",
+          "price": "874",
+          "image1": "https://photos.zillowstatic.com/fp/4568dceded3096abcc548b8e2615a7f8-p_e.jpg"
+        },
+        {
+          "id": "3",
+          "price": "13",
+          "image1": "https://photos.zillowstatic.com/fp/3ab88f0c20ee410fbb74910d6b984c41-p_e.jpg"
+        },
+        {
+          "id": "4",
+          "price": "132",
+          "image1": "https://photos.zillowstatic.com/fp/77b929afb925ac14e441be9ce25bbac8-p_e.jpg"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "destination": "Ojai, California",
+      "image": "https://i.pinimg.com/564x/7f/38/43/7f38436c6b9fae5d1265c7a98d3b6221.jpg",
+      "category": "stressed and distressed and need a wellness getaway",
+      "stays": [
+        {
+          "id": "1",
+          "price": "12",
+          "image1": "https://photos.zillowstatic.com/fp/b0391aa94bbd536a5219dc16945419af-p_e.jpg"
+        },
+        {
+          "id": "2",
+          "price": "31",
+          "image1": "https://photos.zillowstatic.com/fp/4b0ae555d2a0677d24b3f28017ec329a-cc_ft_1536.webp"
+        },
+        {
+          "id": "3",
+          "price": "4",
+          "image1": "https://photos.zillowstatic.com/fp/e02687c098f993fcac2c692b0e379c17-cc_ft_1536.webp"
+        },
+        {
+          "id": "4",
+          "price": "45",
+          "image1": "https://photos.zillowstatic.com/fp/d85945fd1c6d1cb8855cf6328c386a6e-cc_ft_1536.webp"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "destination": "Ibiza",
+      "image": "https://i.pinimg.com/564x/f8/a2/46/f8a24646d0d00c37daa72a184807c6b6.jpg",
+      "category": "just here to party",
+      "stays": [
+        {
+          "id": "1",
+          "price": "521",
+          "image1": "https://i.pinimg.com/564x/5a/51/6e/5a516ef4c90da1899ddf81f41e298f53.jpg"
+        },
+        {
+          "id": "2",
+          "price": "4235",
+          "image1": "https://i.pinimg.com/564x/8d/54/b3/8d54b3d1f36ae3c1371a7d824778e15b.jpg"
+        },
+        {
+          "id": "3",
+          "price": "135",
+          "image1": "https://i.pinimg.com/564x/58/8e/6d/588e6d4f106e76867e4ddf4e8bd81b88.jpg"
+        },
+        {
+          "id": "4",
+          "price": "642",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-643305614074923990/original/aab3fc78-a98d-480d-afd0-4d9b2dbca324.jpeg?im_w=1200"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "destination": "Rio de Janeiro, Brazil",
+      "image": "https://i.pinimg.com/564x/dc/48/c7/dc48c76e5dcf9bbd91de357a2209824e.jpg",
+      "category": "just here to party",
+      "stays": [
+        {
+          "id": "1",
+          "price": "631",
+          "image1": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-782695640629451530/original/a3bd8195-6f94-47cd-87f2-59126f15ccd6.jpeg?im_w=1200"
+        },
+        {
+          "id": "2",
+          "price": "7355",
+          "image1": "https://a0.muscache.com/im/pictures/e880e630-2bb9-451f-b5dc-10f5891d3318.jpg?im_w=1440"
+        },
+        {
+          "id": "3",
+          "price": "134",
+          "image1": "https://a0.muscache.com/im/pictures/1e2bff91-dfa1-4b40-b1f9-1dceb14a21ba.jpg?im_w=1200"
+        },
+        {
+          "id": "4",
+          "price": "351",
+          "image1": "https://a0.muscache.com/im/pictures/2f39286a-e60b-4bcc-80b8-6cd0231982d0.jpg?im_w=1440"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "destination": "Miami, Florida",
+      "image": "https://i.pinimg.com/564x/0a/03/3b/0a033b9c2127e8c79f6dcb3d08055c70.jpg",
+      "category": "just here to party",
+      "stays": [
+        {
+          "id": "1",
+          "price": "513",
+          "image1": "https://photos.zillowstatic.com/fp/d4f5dc784e8159cc3b699fab88ea69b9-cc_ft_1536.webp"
+        },
+        {
+          "id": "2",
+          "price": "135",
+          "image1": "https://photos.zillowstatic.com/fp/190caba9c8f61aa73b52a1391a660814-cc_ft_768.webp"
+        },
+        {
+          "id": "3",
+          "price": "646",
+          "image1": "https://photos.zillowstatic.com/fp/d35530d9773a26096f678e0d828b6e81-cc_ft_768.webp"
+        },
+        {
+          "id": "4",
+          "price": "643",
+          "image1": "https://photos.zillowstatic.com/fp/a478f0a335fd0018085232e58ad5ccc4-cc_ft_1536.webp"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "destination": "Las Vegas, California",
+      "image": "https://i.pinimg.com/564x/ec/43/e4/ec43e459c1d9e878d904cfdb46f99eda.jpg",
+      "category": "just here to party",
+      "stays": [
+        {
+          "id": "1",
+          "price": "7854",
+          "image1": "https://photos.zillowstatic.com/fp/ffc30740b49979b445b86b45ed34ff36-p_e.jpg"
+        },
+        {
+          "id": "2",
+          "price": "451",
+          "image1": "https://photos.zillowstatic.com/fp/b89c2c77d0212b9da27c5915f01b61fd-p_e.jpg"
+        },
+        {
+          "id": "3",
+          "price": "13",
+          "image1": "https://photos.zillowstatic.com/fp/c183dd1a47d1e253e05c14414e9f2c09-p_e.jpg"
+        },
+        {
+          "id": "4",
+          "price": "153",
+          "image1": "https://photos.zillowstatic.com/fp/8809925d3c24e0b0223f1a9ecd1b48c0-p_e.jpg"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "destination": "Bali, Indonesia",
+      "image": "https://i.pinimg.com/564x/02/21/ad/0221ad079845c3157be2a3e2bef978ce.jpg",
+      "category": "super spiritual yogi seeking enlightenment",
+      "stays": [
+        {
+          "id": "1",
+          "price": "542",
+          "image1": "https://www.balirealty.com/wp-content/uploads/2023/03/Jimbaran-Villa-2290-1-1024x614.jpg.webp"
+        },
+        {
+          "id": "2",
+          "price": "745",
+          "image1": "https://www.real-samui-properties.com/prodimages/193328868_376000350766537_5764724882059014603_n.jpg"
+        },
+        {
+          "id": "3",
+          "price": "831",
+          "image1": "https://www.real-samui-properties.com/prodimages/Villa_B_01-2.jpg"
+        },
+        {
+          "id": "4",
+          "price": "838",
+          "image1": "https://www.real-samui-properties.com/prodimages/1-291.jpg"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "destination": "Rishikesh, India",
+      "image": "https://i.pinimg.com/564x/fa/f3/1c/faf31c3fdc59922c55ab22b50518a56a.jpg",
+      "category": "super spiritual yogi seeking enlightenment",
+      "stays": [
+        {
+          "id": "1",
+          "price": "543",
+          "image1": "https://a0.muscache.com/im/pictures/06e5bda6-ee8f-415c-9beb-94331aee2624.jpg?im_w=720"
+        },
+        {
+          "id": "2",
+          "price": "824",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-633774666890409892/original/3560e725-fc75-4c6a-8d4e-41fdb8433a5f.jpeg?im_w=720"
+        },
+        {
+          "id": "3",
+          "price": "513",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-633774666890409892/original/dc395cdf-8c60-475b-9238-be647b5d6f9c.jpeg?im_w=720"
+        },
+        {
+          "id": "4",
+          "price": "136",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-633774666890409892/original/32d30734-8aab-4d42-8d24-97e0e956aa57.jpeg?im_w=720"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "destination": "Koh Samui, Thailand",
+      "image": "https://i.pinimg.com/564x/12/99/ce/1299ce1c724c04f96045ec2aa62083d0.jpg",
+      "category": "super spiritual yogi seeking enlightenment",
+      "stays": [
+        {
+          "id": "1",
+          "price": "632",
+          "image1": "https://www.real-samui-properties.com/prodimages/1-412.jpg"
+        },
+        {
+          "id": "2",
+          "price": "236",
+          "image1": "https://www.real-samui-properties.com/prodimages/1-291-thumb.jpg"
+        },
+        {
+          "id": "3",
+          "price": "41",
+          "image1": "https://www.real-samui-properties.com/prodimages/1-237-thumb.jpg"
+        },
+        {
+          "id": "4",
+          "price": "0",
+          "image1": "https://www.real-samui-properties.com/prodimages/193328868_376000350766537_5764724882059014603_n-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "destination": "Tulum, Mexico",
+      "image": "https://i.pinimg.com/564x/fa/84/56/fa84564e78db58b48e10a245bb7fdb56.jpg",
+      "category": "super spiritual yogi seeking enlightenment",
+      "stays": [
+        {
+          "id": "1",
+          "price": "85",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-570880210708677905/original/dc7666f2-e998-40d4-8a57-c8288edc56b2.jpeg?im_w=1200"
+        },
+        {
+          "id": "2",
+          "price": "42",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-570880210708677905/original/c07a8df3-39f8-4433-8eda-1d713c8596c3.jpeg?im_w=1440"
+        },
+        {
+          "id": "3",
+          "price": "64",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-53588959/original/c838ff01-596c-4b26-90a1-000d89788f46.jpeg?im_w=720"
+        },
+        {
+          "id": "4",
+          "price": "3541",
+          "image1": "https://a0.muscache.com/im/pictures/f915e161-b0d0-4286-a582-90ea3b617d0e.jpg?im_w=1200"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "destination": "Seattle, Washington",
+      "image": "https://i.pinimg.com/564x/35/ef/c5/35efc539fc4249b54fda4223f53f3fc5.jpg",
+      "category": "hipster, coffee snob, tree hugger",
+      "stays": [
+        {
+          "id": "1",
+          "price": "4246",
+          "image1": "https://photos.zillowstatic.com/fp/e50201cc57715ee923008cd46da321c5-cc_ft_1536.webp"
+        },
+        {
+          "id": "2",
+          "price": "432",
+          "image1": "https://photos.zillowstatic.com/fp/7848b19d6f7b0b309ad2a8f5e12d9b20-cc_ft_1536.webp"
+        },
+        {
+          "id": "3",
+          "price": "248",
+          "image1": "https://photos.zillowstatic.com/fp/1f70b4c5decbb5f9ab928aaf75453524-cc_ft_1536.webp"
+        },
+        {
+          "id": "4",
+          "price": "6865",
+          "image1": "https://photos.zillowstatic.com/fp/d4daa4a563262245521022237501f41c-cc_ft_1536.webp"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "destination": "Boulder, Colorado",
+      "image": "https://i.pinimg.com/564x/6a/87/26/6a8726f0e5937e76f93d4eb4544f7464.jpg",
+      "category": "hipster, coffee snob, tree hugger",
+      "stays": [
+        {
+          "id": "1",
+          "price": "134",
+          "image1": "https://photos.zillowstatic.com/fp/6de8581f6d3f7f3a750fc47ed1e36c04-p_e.jpg"
+        },
+        {
+          "id": "2",
+          "price": "23",
+          "image1": "https://photos.zillowstatic.com/fp/711474a8be697e6b3ddef6e0e5d31e7f-p_e.jpg"
+        },
+        {
+          "id": "3",
+          "price": "35",
+          "image1": "https://photos.zillowstatic.com/fp/65d79fb4b66c1a10c7b1fd7bc82565c8-p_e.jpg"
+        },
+        {
+          "id": "4",
+          "price": "2",
+          "image1": "https://photos.zillowstatic.com/fp/42988efe05d3d203cac45f4501c4f0d7-cc_ft_1536.webp"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "destination": "Portland, Oregon",
+      "image": "https://i.pinimg.com/564x/43/31/b6/4331b618ae76582ed26a04172f720dc8.jpg",
+      "category": "hipster, coffee snob, tree hugger",
+      "stays": [
+        {
+          "id": "1",
+          "price": "53",
+          "image1": "https://www.zillow.com/homedetails/12955-NW-Skyline-Blvd-Portland-OR-97231/176524014_zpid/"
+        },
+        {
+          "id": "2",
+          "price": "567",
+          "image1": "https://www.zillow.com/homedetails/264-NW-Macleay-Blvd-Portland-OR-97210/53949846_zpid/"
+        },
+        {
+          "id": "3",
+          "price": "8754",
+          "image1": "https://photos.zillowstatic.com/fp/09ed5293146325435ce836601cca68a4-cc_ft_1536.webp"
+        },
+        {
+          "id": "4",
+          "price": "4567",
+          "image1": "https://photos.zillowstatic.com/fp/5b59f207a1a950798f41bde0eef9b147-cc_ft_1536.webp"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "destination": "Berkeley, California",
+      "image": "https://i.pinimg.com/564x/62/29/fd/6229fdb45fab4bd9f55c8c2619825a8e.jpg",
+      "category": "hipster, coffee snob, tree hugger",
+      "stays": [
+        {
+          "id": "1",
+          "price": "346",
+          "image1": "https://photos.zillowstatic.com/fp/3060c32631ea23b9a9824840028a89a4-p_e.jpg"
+        },
+        {
+          "id": "2",
+          "price": "865",
+          "image1": "https://photos.zillowstatic.com/fp/83923472deb62932137090dea8d7ca20-p_e.jpg"
+        },
+        {
+          "id": "3",
+          "price": "689",
+          "image1": "https://photos.zillowstatic.com/fp/5f10e4191ed0b292acee057cbce26036-cc_ft_1536.webp"
+        },
+        {
+          "id": "4",
+          "price": "452",
+          "image1": "https://photos.zillowstatic.com/fp/343ceec369a310635ffe164a86d91696-cc_ft_1536.webp"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "destination": "Rome, Italy",
+      "image": "https://i.pinimg.com/564x/61/f7/7f/61f77fae80a6110685b2feca40403e2d.jpg",
+      "category": "city-goer who loves culture and learning",
+      "stays": [
+        {
+          "id": "1",
+          "price": "264",
+          "image1": "https://a0.muscache.com/im/pictures/93370ff4-35fb-4af1-9076-f0c5b30a30fa.jpg?im_w=1200"
+        },
+        {
+          "id": "2",
+          "price": "458",
+          "image1": "https://a0.muscache.com/im/pictures/802b2a86-684f-45b5-8b35-a5f672d91f96.jpg?im_w=1200"
+        },
+        {
+          "id": "3",
+          "price": "521",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-645194729944733143/original/daf66483-d03e-40db-a16d-ae4aacca5e3b.jpeg?im_w=1200"
+        },
+        {
+          "id": "4",
+          "price": "5432",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-47025821/original/256e7768-14f0-4cea-a838-e718a1cd3c95.jpeg?im_w=1200"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "destination": "New York City",
+      "image": "https://i.pinimg.com/564x/71/1c/68/711c685ba2618063f1454d25776ea1ad.jpg",
+      "category": "city-goer who loves culture and learning",
+      "stays": [
+        {
+          "id": "1",
+          "price": "2467",
+          "image1": "https://photos.zillowstatic.com/fp/1d318cf6544dc15a85160f968327f367-p_e.jpg"
+        },
+        {
+          "id": "2",
+          "price": "346",
+          "image1": "https://photos.zillowstatic.com/fp/d54df4b8e8eedd3cfcaf624a5ed2a9e7-p_e.jpg"
+        },
+        {
+          "id": "3",
+          "price": "1358",
+          "image1": "https://photos.zillowstatic.com/fp/e6716dcb9da9d074e0e45bf688a93beb-p_e.jpg"
+        },
+        {
+          "id": "4",
+          "price": "751",
+          "image1": "https://photos.zillowstatic.com/fp/1ea8b2ae91499a0db9e324297167d28d-p_e.jpg"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "destination": "Istanbul, Turkey",
+      "image": "https://i.pinimg.com/564x/8e/54/44/8e544425c4b2bca91d0e3790ad165462.jpg",
+      "category": "city-goer who loves culture and learning",
+      "stays": [
+        {
+          "id": "1",
+          "price": "689",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-35891255/original/6d6015c4-7431-48f7-95e2-89d5218228aa.jpeg?im_w=1200"
+        },
+        {
+          "id": "2",
+          "price": "631",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-16224811/original/29a91143-3bb2-488b-a76a-c161318e1c9e.jpeg?im_w=1200"
+        },
+        {
+          "id": "3",
+          "price": "237",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-50111556/original/9be23c71-07ab-425b-921e-dfefa6cb260a.jpeg?im_w=1200"
+        },
+        {
+          "id": "4",
+          "price": "1588",
+          "image1": "https://a0.muscache.com/im/pictures/cf28ee26-730d-499e-aa64-55c01bee9c1b.jpg?im_w=1200"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "destination": "Jerusalem, Israel",
+      "image": "https://i.pinimg.com/564x/02/db/04/02db04b8550e0a811129a04696cb1870.jpg",
+      "category": "city-goer who loves culture and learning",
+      "stays": [
+        {
+          "id": "1",
+          "price": "136",
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-681057519085139102/original/fc956341-7379-41ba-b734-d24ed421d098.jpeg?im_w=1440"
+        },
+        {
+          "id": "2",
+          "price": "3578",
+          "image1": "https://a0.muscache.com/im/pictures/91428633/7e45589e_original.jpg?im_w=1200"
+        },
+        {
+          "id": "3",
+          "price": "8653",
+          "image1": "https://a0.muscache.com/im/pictures/0a70e716-1ca9-43b2-82c4-4b79641d2c8e.jpg?im_w=1200"
+        },
+        {
+          "id": "4",
+          "price": "468",
+          "image1": "https://a0.muscache.com/im/pictures/d8457bfa-3b63-4f3e-9051-2dcacf3ffe91.jpg?im_w=1200"
+        }
+      ]
+    }
+  ],
+  "tripdata": [
+    {
+      "name": "name",
+      "category": "salt-water soul",
+      "destination": "Tahiti",
+      "image": "https://i.pinimg.com/564x/e2/9a/49/e29a49d0f19085cc461a6daf6ed36329.jpg",
+      "stayprice": "951",
+      "stayimage": "https://i.pinimg.com/564x/2f/ad/2f/2fad2fca0adf27bdbc339b5bf59cc8d5.jpg",
+      "id": 1
+    },
+    {
+      "name": "name",
+      "category": "stressed and distressed and need a wellness getaway",
+      "destination": "Sedona, Arizona",
+      "image": "https://i.pinimg.com/564x/ce/f9/dd/cef9dd06d18ad3ae34e7823e57436782.jpg",
+      "stayprice": "75",
+      "stayimage": "https://photos.zillowstatic.com/fp/f1f44dba39d822ca7031c421a859e036-cc_ft_1536.webp",
+      "id": 2
+    }
+  ]
 }

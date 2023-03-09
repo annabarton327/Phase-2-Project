@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "react-router-dom"
 
-function SkiBum({ destinations, filterBy, setFilterById }) {
+function SkiBum({ destinations, filterBy, setFilterById, handleClick }) {
 
     const filteredDestinations = destinations.filter((individual) => {
         if (individual.category === filterBy) {
@@ -12,12 +12,16 @@ function SkiBum({ destinations, filterBy, setFilterById }) {
     })
 
     const destinationsList = filteredDestinations.map((destination) => {
-        return <div className="image-container" key={destination.id} >
-            <Link to="SkiBumStays" onClick={()=>setFilterById(destination.id)} >
+        return <div key={destination.id} >
+            <Link to="SkiBumStays" onClick={() => {
+                setFilterById(destination.id)
+            }}>
                 <h1 className="link-button">{destination.destination}</h1>
-            </Link> 
-            <Link to="SkiBumStays" onClick={()=>setFilterById(destination.id)} >
-                <img src={destination.image} />
+            </Link>
+            <Link to="SkiBumStays" onClick={() => {
+                setFilterById(destination.id)
+            }} >
+                <img className="hi" onClick={()=>setFilterById(destination.id)} src={destination.image} />
             </Link>
         </div>
     })
