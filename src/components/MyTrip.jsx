@@ -2,32 +2,34 @@ import React from "react"
 import { Link } from "react-router-dom"
 
 
-function MyTrips({ click, formData, handleDelete }) {
+function MyTrips({ click, handleDelete, users }) {
 
     function mytriplist() {
         return (
             <div>
-                {click.map((destination) => {
+                
+                {click.map((destination,i) => {
                     var arrival
                     var departure
                     var totalPrice = destination.stayprice
                     
-                    if (formData.arrival !== "") {
-                        arrival = new Date(formData.arrival)
-                        departure = new Date(formData.departure)
+                
+                        arrival = new Date(users[i].arrival)
+                        departure = new Date(users[i].departure)
                         totalPrice = (arrival - departure) / 60 / 60 / 1000 / 24 * Number(destination.stayprice)
-                    }
+                
 
                     return (
                         <div>
+                            <h1 className="heading3">Hi, {users[i].name}! View your trip here.♡</h1>
                             <h1 className="headingdest">{destination.destination}</h1>
                             <body className="hi1">
                                 <img src={destination.image} />
                                 <img src={destination.stayimage} />
                             </body>
                             <h1 className="heading3">Trip Total: ${totalPrice.toFixed(2)}</h1>
-                            <h2 className="heading3">Departure: {formData.departure}</h2>
-                            <h2 className="heading3">Return: {formData.arrival}</h2>
+                            <h2 className="heading3">Departure: {users[i].departure}</h2>
+                            <h2 className="heading3">Return: {users[i].arrival}</h2>
                             <h1 onClick={() => {
                                 handleDelete(destination.id)
                             }} className="link-button">Remove Trip</h1>

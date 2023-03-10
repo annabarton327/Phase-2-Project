@@ -114,6 +114,7 @@ return (
         click={click}
         formData={formData}
         handleDelete={handleDelete}
+        users={users}
          />} />
 
       <Route path="StylePage" element={<StylePage

@@ -3,28 +3,28 @@
     {
       "id": "1",
       "destination": "Verbier, Switzerland",
-      "image": "https://i.pinimg.com/564x/81/d5/20/81d5206b89f67dc5beeab8f7854ca507.jpg",
+      "image": "https://i.pinimg.com/474x/10/7f/39/107f396a0c54e55ad8a4fef583cb078d.jpg",
       "category": "ski bum all the way",
       "stays": [
         {
           "id": "1",
           "price": "345.24",
-          "image1": "https://pea-7f65.kxcdn.com/img/image_db/chalet-l-raphael-verbier-18-1920.webp"
+          "image1": "https://i.pinimg.com/474x/69/fb/89/69fb897b944e12c2654431d2409af25d.jpg"
         },
         {
           "id": "2",
           "price": "342.34",
-          "image1": "https://i.pinimg.com/474x/71/fd/aa/71fdaab666c1c96293bcf80f8d521e70.jpg"
+          "image1": "https://i.pinimg.com/474x/b8/6b/c0/b86bc00fdcbf8ba4a7ccc6e07b1aaa78.jpg"
         },
         {
           "id": "3",
           "price": "235.43",
-          "image1": "https://i.pinimg.com/474x/b7/c4/04/b7c4048d032fbf8558b8d5316ec69934.jpg"
+          "image1": "https://i.pinimg.com/474x/60/a5/a5/60a5a510d121497d3b5e6f8161172850.jpg"
         },
         {
           "id": "4",
           "price": "224",
-          "image1": "https://i.pinimg.com/474x/a5/87/62/a58762a7058104e6827733f3b78f3ad2.jpg"
+          "image1": "https://i.pinimg.com/474x/4d/d0/a5/4dd0a500d11d62fad67941585c6b3e7d.jpg"
         }
       ]
     },
@@ -65,22 +65,22 @@
         {
           "id": "1",
           "price": "4543",
-          "image1": "https://photos.zillowstatic.com/fp/18b426bcc56bdbc30b92cd262ee70f30-p_e.jpg"
+          "image1": "https://i.pinimg.com/474x/07/0f/8c/070f8c517d096b807e80c81e0048c4f6.jpg"
         },
         {
           "id": "2",
           "price": "12",
-          "image1": "https://photos.zillowstatic.com/fp/f469b64afb08b08e9d99eb2d8f8b2c5a-p_e.jpg"
+          "image1": "https://i.pinimg.com/474x/14/9c/99/149c99f46f12f48c455612c828586d31.jpg"
         },
         {
           "id": "3",
           "price": "34",
-          "image1": "https://photos.zillowstatic.com/fp/c3ccc47d13e6288dd70f21f754ff8b68-p_e.jpg"
+          "image1": "https://i.pinimg.com/474x/c3/58/8d/c3588de41172dc29db8e1d4aa42441d4.jpg"
         },
         {
           "id": "4",
           "price": "8445",
-          "image1": "https://photos.zillowstatic.com/fp/4ad6584dbb290b283a809c4d86b6df42-p_e.jpg"
+          "image1": "https://i.pinimg.com/474x/20/60/35/206035cbe15e64bbf35757c07d50b88b.jpg"
         }
       ]
     },
@@ -220,7 +220,7 @@
         {
           "id": "4",
           "price": "613",
-          "image1": "https://i.pinimg.com/564x/2b/5b/b0/2b5bb0434b8af5d2a58d403aee2dfe44.jpg"
+          "image1": "https://i.pinimg.com/564x/a0/4b/b5/a04bb5e31062d953a9f0480e40dc8acc.jpg"
         }
       ]
     },
@@ -518,17 +518,17 @@
         {
           "id": "2",
           "price": "236",
-          "image1": "https://www.real-samui-properties.com/prodimages/1-291-thumb.jpg"
+          "image1": "https://a0.muscache.com/im/pictures/d88bca1f-ef58-4768-a2ec-1850e167e080.jpg?im_w=1200"
         },
         {
           "id": "3",
           "price": "41",
-          "image1": "https://www.real-samui-properties.com/prodimages/1-237-thumb.jpg"
+          "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-3251026/original/825da780-127b-4155-982b-2a958b436eb2.jpeg?im_w=1200"
         },
         {
           "id": "4",
           "price": "0",
-          "image1": "https://www.real-samui-properties.com/prodimages/193328868_376000350766537_5764724882059014603_n-thumb.jpg"
+          "image1": "https://a0.muscache.com/im/pictures/10411d25-e499-42ec-82b0-9b55f1ce3ff7.jpg?im_w=1200"
         }
       ]
     },
@@ -786,35 +786,9 @@
     }
   ],
   "tripdata": [
-    {
-      "category": "ski bum all the way",
-      "destination": "Verbier, Switzerland",
-      "image": "https://i.pinimg.com/564x/81/d5/20/81d5206b89f67dc5beeab8f7854ca507.jpg",
-      "stayprice": "342.34",
-      "stayimage": "https://i.pinimg.com/474x/71/fd/aa/71fdaab666c1c96293bcf80f8d521e70.jpg",
-      "id": 1
-    },
-    {
-      "category": "just here to party",
-      "destination": "Rio de Janeiro, Brazil",
-      "image": "https://i.pinimg.com/564x/dc/48/c7/dc48c76e5dcf9bbd91de357a2209824e.jpg",
-      "stayprice": "631",
-      "stayimage": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-782695640629451530/original/a3bd8195-6f94-47cd-87f2-59126f15ccd6.jpeg?im_w=1200",
-      "id": 2
-    }
+   
   ],
   "users": [
-    {
-      "name": "Truman",
-      "departure": "2023-03-06",
-      "arrival": "2023-03-24",
-      "id": 1
-    },
-    {
-      "name": "Benny Boy",
-      "departure": "2023-03-12",
-      "arrival": "2023-03-31",
-      "id": 2
-    }
+    
   ]
 }

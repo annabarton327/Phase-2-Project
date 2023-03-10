@@ -29,9 +29,9 @@ function Home({ setFormData, formData, handleSubmit }) {
                     <input value={formData.name} onChange={handleChange} name="name" className="heading4" type="text" placeholder="First and Last Name" />
                     <input className="heading4" type="text" placeholder="Email" />
                     <p className="heading4">Departure Date</p>
-                    <input value={formData.departure} onChange={handleChange} name="departure" className="heading4" type="date" />
+                    <input value={formData.departure} onChange={handleChange} name="departure" className="heading5" type="date" />
                     <p className="heading4">Return Date</p>
-                    <input value={formData.arrival} onChange={handleChange} name="arrival" className="heading4" type="date" />
+                    <input value={formData.arrival} onChange={handleChange} name="arrival" className="heading5" type="date" />
                 </div>
                 <Link onClick={() => {
                     handleSubmit(formData)
