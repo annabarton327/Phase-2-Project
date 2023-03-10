@@ -2,22 +2,39 @@ import React from "react"
 import { Link } from "react-router-dom"
 
 
-function MyTrips({ click }) {
+function MyTrips({ click, formData, handleDelete }) {
 
     function mytriplist() {
         return (
             <div>
-                {click.map((destination) =>
-                    <div>
-                        <h1 className="headingdest">{destination.destination}</h1>
-                        <div className="hi1">
-                            <img src={destination.image} />
-                            <img src={destination.stayimage} />
+                {click.map((destination) => {
+                    var arrival
+                    var departure
+                    var totalPrice = destination.stayprice
+                    
+                    if (formData.arrival !== "") {
+                        arrival = new Date(formData.arrival)
+                        departure = new Date(formData.departure)
+                        totalPrice = (arrival - departure) / 60 / 60 / 1000 / 24 * Number(destination.stayprice)
+                    }
+
+                    return (
+                        <div>
+                            <h1 className="headingdest">{destination.destination}</h1>
+                            <body className="hi1">
+                                <img src={destination.image} />
+                                <img src={destination.stayimage} />
+                            </body>
+                            <h1 className="heading3">Trip Total: ${totalPrice.toFixed(2)}</h1>
+                            <h2 className="heading3">Departure: {formData.departure}</h2>
+                            <h2 className="heading3">Return: {formData.arrival}</h2>
+                            <h1 onClick={() => {
+                                handleDelete(destination.id)
+                            }} className="link-button">Remove Trip</h1>
+                            <section className="section"></section>
                         </div>
-                        <h1 className="heading3">Trip Total: ${destination.stayprice}</h1>
-                        <section className="section"></section>
-                    </div>
-                )}
+                    )
+                })}
             </div>
         )
     }

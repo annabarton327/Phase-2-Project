@@ -14,7 +14,6 @@
 
 .link-button1 {
   float: right;
-  display: inline-block;
   font-size: 30px;
   text-align: center;
   text-decoration: none;
@@ -50,15 +49,16 @@ body {
 }
 
 .headingdest {
-  float: left
+  float: left;
   font-weight: bold;
   color:cadetblue;
   margin-top: 20px;
   margin-bottom: 15px;
+  padding-left: 4%;
 }
 
 .headingdest{
-  font-size: 70px;
+  font-size: 50px;
 }
 
 .stylepage {
@@ -92,15 +92,19 @@ body {
   font-size: 20px;
   font-weight: bold;
   color:darkseagreen;
-  text-align: center;
+  text-align: left;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
-.image-grid {
-  width: 50%;
-  height: 100%;
-  object-fit: cover;
+
+.heading4 {
+  font-size: 20px;
+  font-weight: bold;
+  color:darkseagreen;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .about {
@@ -142,15 +146,15 @@ em {
   padding: 20px
 }
 
-img {
+.hi img {
   flex:1
 }
 
-img {
+.hi img {
   width: 25%
 }
 
-img {
+.hi img {
   margin-right: 20px
 }
 
@@ -161,10 +165,35 @@ img {
 .hi1 {
   display: flex;
   flex-wrap: wrap;
-  padding: 100px
+  padding: 50px
 }
 
 .hi1 img {
-flex:1
-
+  flex:2
 }
+
+.hi1 img {
+  width: 20%
+}
+
+.hi1 img {
+  margin-right: 90px
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  padding: 0.5em;
+  font-size: 1.2em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+

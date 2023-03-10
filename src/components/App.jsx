@@ -11,45 +11,27 @@ import SkiBumStays from "./Links/SkiBumStays";
 
 
 function App() {
+  const [users, setUsers] = useState([])
   const [destinations, setDestinations] = useState([])
   const [filterBy, setFilterBy] = useState("ski bum all the way")
   const [filterById, setFilterById] = useState("1")
-  const [click, setClick] = useState({})
-  // const [name, setName] = useState("")
-  // const [departure, setDeparture] = useState("")
-  // const [arrival, setArrival] = useState("")
+  const [click, setClick] = useState([])
+  const [formData, setFormData] = useState({ name: "", departure: "", arrival: "" })
+  
 
   useEffect(() => {
     fetch("/db.json")
       .then(r => r.json())
       .then(data => {
+        console.log("data: ", data)
         setDestinations(data.destinations)
         setClick(data.tripdata)
+        setUsers(data.users)
       })
   }, [])
 
-  // function handleSubmit(e) {
-  //   e.preventDefault()
-  //   const homepageinfo = {
-  //     name: name,
-  //     departure: departure,
-  //     arrival: arrival
-  //   }
-
-  //   fetch("http://localhost:3000/homepageinfo", {
-  //     method: "POST",
-  //     headers: {
-  //       "Content-Type": "application/json"
-  //     },
-  //     body: JSON.stringify(homepageinfo)
-  //   })
-  //     .then(r => r.json())
-  //     .then(homepageinfo => setClick([...click, homepageinfo]))
-  // }
-
-  function handleClick(destination,stay) {
+  function handleClick(destination, stay) {
     const myTripsData = {
-      name: "name",
       category: destination.category,
       destination: destination.destination,
       image: destination.image,
@@ -68,41 +50,88 @@ function App() {
       .then(myTripsData => setClick([...click, myTripsData]))
   }
 
-  return (
+  function handleSubmit(formData) {
+    fetch("http://localhost:3000/users", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(formData)
+    })
+      .then(r => { 
+        console.log(r)
+        return r.json() 
+      })
+      .then(user => setUsers([...users, user]))
+  }
 
-    <BrowserRouter>
-      <nav>
-        <Link className="link-button" to="/">Home</Link>
-        <Link className="link-button" to="About">About</Link>
-        <Link className="link-button" to="MyTrips">My Trips</Link>
-      </nav>
-      <Routes>
-        <Route path="MyTrips" element={<MyTrips
-          click={click} />} />
-        <Route path="/" element={<Home/>} />
-        <Route path="About" element={<About />} />
-        <Route path="StylePage" element={<StylePage setFilterBy={setFilterBy} />} />
-        <Route path="StylePage/SkiBum" element={<SkiBum
-          destinations={destinations}
-          filterBy={filterBy}
-          setFilterBy={setFilterBy}
-          setFilterById={setFilterById}
-          click={click}
-          setClick={setClick}
-          handleClick={handleClick} />}
-        />
-        <Route path="StylePage/SkiBum/SkiBumStays" element={<SkiBumStays
-          destinations={destinations}
-          filterBy={filterBy}
-          setFilterBy={setFilterBy}
-          filterById={filterById}
-          setFilterById={setFilterById}
-          click={click}
-          setClick={setClick}
-          handleClick={handleClick} />} />
-      </Routes>
-    </BrowserRouter>
-  )
+  function handleDelete(id) {
+    fetch(`http://localhost:3000/users/${id}`, {
+      method: "DELETE",
+      headers: {
+        "Content-Type": "application/json"
+      },
+    })
+      .then(() => {
+        setUsers(users.filter((currentUser)=>{
+          if(currentUser.id === id) return false
+          return true
+        }))
+      })
+
+
+      fetch(`http://localhost:3000/tripdata/${id}`, {
+      method: "DELETE",
+      headers: {
+        "Content-Type": "application/json"
+      },
+    })
+      .then(() => {
+        setClick(click.filter((currentTrip)=>{
+          if(currentTrip.id === id) return false
+          return true
+        }))
+      })
+  }
+
+
+return (
+
+  <BrowserRouter>
+    <nav>
+      <Link className="link-button" to="/">Home</Link>
+      <Link className="link-button" to="About">About</Link>
+      <Link className="link-button" to="MyTrips">My Trips</Link>
+    </nav>
+    <Routes>
+      <Route path="About" element={<About />} />
+      <Route path="/" element={<Home
+        setFormData={setFormData}
+        handleSubmit={handleSubmit}
+        formData={formData} />} />
+
+      <Route path="MyTrips" element={<MyTrips
+        click={click}
+        formData={formData}
+        handleDelete={handleDelete}
+         />} />
+
+      <Route path="StylePage" element={<StylePage
+        setFilterBy={setFilterBy} />} />
+
+      <Route path="StylePage/SkiBum" element={<SkiBum
+        destinations={destinations}
+        filterBy={filterBy}
+        setFilterById={setFilterById} />} />
+
+      <Route path="StylePage/SkiBum/SkiBumStays" element={<SkiBumStays
+        destinations={destinations}
+        filterById={filterById}
+        handleClick={handleClick} />} />
+
+    </Routes>
+  </BrowserRouter>
+)
 }
 
 ReactDOM.createRoot(document.getElementById('root')).render(<App />);

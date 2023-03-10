@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "react-router-dom"
 
-function SkiBum({ destinations, filterBy, setFilterById, handleClick }) {
+function SkiBum({ destinations, filterBy, setFilterById }) {
 
     const filteredDestinations = destinations.filter((individual) => {
         if (individual.category === filterBy) {

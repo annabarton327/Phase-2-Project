@@ -3,8 +3,7 @@ import { Link } from "react-router-dom"
 
 
 
-function SkiBumStays({ destinations, filterById, setFilterById, handleClick }) {
-    console.log(destinations)
+function SkiBumStays({ destinations, filterById, handleClick }) {
 
     const filteredDestinations = destinations.filter((individual) => {
         if (individual.id === filterById) {
@@ -16,7 +15,6 @@ function SkiBumStays({ destinations, filterById, setFilterById, handleClick }) {
   
     const staysList = filteredDestinations.map((destination) => {
         return (destination.stays.map(stay => {
-            {console.log(stay)}
             return <div key={stay.id} >
                 <Link to="/MyTrips" onClick={()=>handleClick(destination,stay)}> <h1 className="link-button"> ${stay.price} per night </h1> </Link>
                 <Link to="/MyTrips" onClick={()=>handleClick(destination,stay)}> <img className="hi" src={stay.image1} style={{ maxWidth: "50%", height: "auto" }} /> </Link>

@@ -787,21 +787,33 @@
   ],
   "tripdata": [
     {
-      "name": "name",
-      "category": "salt-water soul",
-      "destination": "Tahiti",
-      "image": "https://i.pinimg.com/564x/e2/9a/49/e29a49d0f19085cc461a6daf6ed36329.jpg",
-      "stayprice": "951",
-      "stayimage": "https://i.pinimg.com/564x/2f/ad/2f/2fad2fca0adf27bdbc339b5bf59cc8d5.jpg",
+      "category": "ski bum all the way",
+      "destination": "Verbier, Switzerland",
+      "image": "https://i.pinimg.com/564x/81/d5/20/81d5206b89f67dc5beeab8f7854ca507.jpg",
+      "stayprice": "342.34",
+      "stayimage": "https://i.pinimg.com/474x/71/fd/aa/71fdaab666c1c96293bcf80f8d521e70.jpg",
       "id": 1
     },
     {
-      "name": "name",
-      "category": "stressed and distressed and need a wellness getaway",
-      "destination": "Sedona, Arizona",
-      "image": "https://i.pinimg.com/564x/ce/f9/dd/cef9dd06d18ad3ae34e7823e57436782.jpg",
-      "stayprice": "75",
-      "stayimage": "https://photos.zillowstatic.com/fp/f1f44dba39d822ca7031c421a859e036-cc_ft_1536.webp",
+      "category": "just here to party",
+      "destination": "Rio de Janeiro, Brazil",
+      "image": "https://i.pinimg.com/564x/dc/48/c7/dc48c76e5dcf9bbd91de357a2209824e.jpg",
+      "stayprice": "631",
+      "stayimage": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-782695640629451530/original/a3bd8195-6f94-47cd-87f2-59126f15ccd6.jpeg?im_w=1200",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "Truman",
+      "departure": "2023-03-06",
+      "arrival": "2023-03-24",
+      "id": 1
+    },
+    {
+      "name": "Benny Boy",
+      "departure": "2023-03-12",
+      "arrival": "2023-03-31",
       "id": 2
     }
   ]
